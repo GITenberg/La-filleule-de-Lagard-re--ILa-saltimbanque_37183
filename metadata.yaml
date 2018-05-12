@@ -1,0 +1,32 @@
+_repo: La-filleule-de-Lagard-re--ILa-saltimbanque_37183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahalin, Paul
+    aliases:
+    - Blondet, Émile
+    - Blondet, Emile
+    birthdate: 1838
+    deathdate: 1899
+    gutenberg_agent_id: '38074'
+    url: http://www.gutenberg.org/2009/agents/38074
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37183'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: 'La filleule de Lagardère; I
+
+  La saltimbanque'
+url: http://www.gutenberg.org/ebooks/37183
